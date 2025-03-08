@@ -2,8 +2,14 @@ fastapi
 uvicorn
 python-dotenv
 langchain
+langchain-community
+langchain-core
 langchain-openai
+langchain-pinecone
+langchain-text-splitters
+langsmith
 pydantic
 python-multipart
+python-docx
 openai
 pinecone-client
