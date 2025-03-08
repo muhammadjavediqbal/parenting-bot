@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 python-dotenv
+langchain
 langchain-openai
 pydantic
 python-multipart
